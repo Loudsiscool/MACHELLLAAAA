@@ -1,0 +1,15 @@
+{
+    "Name": "BloodMoon",
+    "Description": "No description provided",
+    "Author": "Loudsiscool",
+    "Version": "1.0",
+    "Image": "https://i.postimg.cc/nL6TRL0z/image-2025-05-25-123501214.png",
+    "Tags": {
+        "Type": "TinyTask",
+        "Resolution": "1920x1080"
+    },
+    "Main": "growagarden+bloodmoon(fixed).rec",
+    "MangoID": "Mango-mw8dki",
+    "bigthumbnail": "https://i.postimg.cc/CxR1hMsS/f4a87-17475053832038-1920.webp",
+    "Game": "GrowAGarden"
+}
